@@ -2,8 +2,23 @@
 
 DOMAIN-SUFFIX,bet365.com
 DOMAIN-SUFFIX,365lpodds.com
+DOMAIN-SUFFIX,bet365api.com
+DOMAIN-SUFFIX,bet365affiliates.com
+DOMAIN-SUFFIX,365scores.com
+DOMAIN-SUFFIX,betconstruct.com
 DOMAIN-SUFFIX,chinadigitaltimes.net
 DOMAIN-SUFFIX,epochtimes.com
 DOMAIN-SUFFIX,bannedbook.org
 DOMAIN-SUFFIX,rfa.org
 DOMAIN-SUFFIX,nytimes.com
+
+# ===== 博彩CDN =====
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,akamaihd.net
+DOMAIN-SUFFIX,akamaized.net
+
+# ===== WebSocket服务 =====
+DOMAIN-KEYWORD,odds
+DOMAIN-KEYWORD,bet365
+DOMAIN-KEYWORD,sportdata
+DOMAIN-KEYWORD,scoredata
